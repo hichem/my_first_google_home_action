@@ -1,0 +1,11 @@
+{
+	"author" : "Hichem BOUSSETTA",
+	"name" : "my_first_google_home_action",
+	"version" : "1.0.0",
+	"description" : "",
+	"main" : "my_action",
+	"dependencies" : {},
+	"engines" : {
+		"node" : "*"
+	}
+}
